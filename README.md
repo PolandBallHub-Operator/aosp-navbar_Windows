@@ -3,7 +3,9 @@
   <img src="https://raw.githubusercontent.com/PolandBallHub-Operator/aosp-navbar_Windows/refs/heads/main/icon.png" alt="WBM2" width="500">
 </p>
 Windowsデスクトップ上でAndroidスタイルの操作感を提供するネイティブEXEツールです。
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PolandBallHub-Operator/aosp-navbar_Windows/refs/heads/main/windroid.png" alt="WBM2" width="500">
+</p>
 ## 機能
 - **ステータスバー**: 画面上部に時計とWiFi情報を表示（左揃え）。
 - **ナビゲーションバー**: 画面下部に「戻る」「ホーム」「タスク」ボタンを表示（最前面）。
