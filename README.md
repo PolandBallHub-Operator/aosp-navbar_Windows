@@ -1,5 +1,7 @@
 # Android NavBar for Windows
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PolandBallHub-Operator/aosp-navbar_Windows/refs/heads/main/icon.png" alt="WBM2" width="500">
+</p>
 Windowsデスクトップ上でAndroidスタイルの操作感を提供するネイティブEXEツールです。
 
 ## 機能
